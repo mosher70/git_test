@@ -6,12 +6,14 @@
 	 */
 public class Person {
 	String name;
+	String vorame;
 	double groesse;
 	int gewicht;
 	
 	
-	public Person (String name, int groesse, int gewicht){
+	public Person (String name, String vorname, int groesse, int gewicht){
 		this.name = name;
+		this.vorame = vorname;
 		this.groesse = groesse;
 		this.gewicht = gewicht;
 		
