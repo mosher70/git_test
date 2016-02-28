@@ -1,3 +1,4 @@
+// Neuer Kommentar hinzugefügt
 import java.util.Scanner;
 
 public class Testaufruf {
